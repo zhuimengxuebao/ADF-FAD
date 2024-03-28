@@ -1,7 +1,3 @@
-###  Note: 
-
-
-
 # ADHD Diagnosis Guided by Functional Brain Networks Combined with Domain Knowledge
 
 
@@ -30,9 +26,7 @@
 
 ### 2) Dataset 
 
-* Datasets are sourced from the public ADHD-200 project dataset, accessible at [](http://fcon 1000.projects.nitrc.org/indi/adhd200/.)
-
-  
+* Datasets are sourced from the public ADHD-200 project dataset, accessible at [the link](http://fcon 1000.projects.nitrc.org/indi/adhd200/.)
 
 ### 3）Data preprocessing
 
@@ -62,7 +56,7 @@ python Predict_NYU.py
 
 ## 3) Visible-FBNs
 
-* Visualization of activated brain networks.
+* Visualize the activated brain networks.
 
 ```
 python Visiable_NYU.py
