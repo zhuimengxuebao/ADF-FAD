@@ -30,7 +30,7 @@
 
 ### 2) Dataset 
 
-* Datasets are sourced from the public ADHD-200 project dataset, accessible at [](http://fcon 1000.projects.nitrc.org/indi/adhd200/.)
+* Datasets are sourced from the public ADHD-200 project dataset, accessible at [http://fcon 1000.projects.nitrc.org/indi/adhd200/.](http://fcon 1000.projects.nitrc.org/indi/adhd200/.)
 
 ### 3）Data preprocessing
 
